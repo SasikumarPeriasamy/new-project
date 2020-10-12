@@ -7,7 +7,7 @@
       :key="index"
     >
       <label class="header-two"
-        ><strong>F{{ ++index }}{{ ": " }}</strong></label
+        ><strong>F{{ Number(index) + 1 }}{{ ": " }}</strong></label
       >
       <input
         type="text"
