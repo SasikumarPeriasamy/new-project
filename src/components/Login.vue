@@ -180,8 +180,9 @@ label {
 
 #login {
   margin-top: 8px;
+  margin-right: 24px;
   border-radius: 4px;
-  width: 75px;
+  width: 70px;
   height: 30px;
   background-color: darkgrey;
 }
